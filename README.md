@@ -1,2 +1,10 @@
 # Foundational-Language-Tech
 A set of frameworks for building the foundational technological layers for low and limited resource languages.
+
+This project will re-imagine the foundational technology infrastructure needed to kickstart the artificial intelligence / machine learning frameworks for some of the low-resourced languages of South Asia. Join us in building a more diverse, equitable, and community-run AI ecosystem for global languages starting in South Asia.
+
+## Problem
+We are trying to study the problems that some of under-resourced South Asian languages communities are facing while creating the foundational tech resources that are needed for the future AI/ML innovations
+
+## Context
+Each human language is unique, and there are more than 6,500 languages that are spoken around the world. UNESCO estimates that half of them are in grave danger and might get extinct in a century's time. The native speakers of many indigenous, endnagered and under-resourced (low/no finance, contributors, tech knowhow, institutuional support, etc.) that are striving to actively use their languages on the internet and other digital spheres face enormous amount of challenges that most dominant languages do not face. This is primarily because the internet is structured with the assumptions of well established and dominant languages in mind. In reality, languages are much beyond just Latin-based languages, right-to-left languages (e.g. Arabic, Hebrew) or the Chinese-Japanese-Korean language group using complex scripts. In fact, a majority of the world languages are only spoken and not written. How does the internet would look like for many under-resourced languages? We're trying to unlearn our language biases, and study the challenges of many small internet comunities building the tech foundation for the future AI/ML projects. Some are creating openly-licensed content using platforms like Wikipedia, some are donating pronunciations of words/sentences using projects like Common Voice/Lingua Libre, and some are building an online dictionary that does not exist yet in their language.
