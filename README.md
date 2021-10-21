@@ -1,4 +1,4 @@
-# Foundational-Language-Tech
+# Foundational Language Tech for Low-Resource Languages
 A set of frameworks for building the foundational technological layers for low and limited resource languages.
 
 This project will re-imagine the foundational technology infrastructure needed to kickstart the artificial intelligence / machine learning frameworks for some of the low-resourced languages of South Asia. Join us in building a more diverse, equitable, and community-run AI ecosystem for global languages starting in South Asia.
