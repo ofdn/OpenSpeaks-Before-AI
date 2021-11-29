@@ -1,3 +1,9 @@
+# Corpus-Size: 5127
+# License: CC0 1.0
+# Maintained by: O Foundation
+# Cite as: "Foundational Language Tech: Ho Wordlist. O Foundation. CC0 1.0. (2021)"
+# Data sources: Ho Wikipedia Incubator Dump, Ho Language (website), Ganesh Birua (@birua123), Mangal Singku (@SinkuMangal), EE Warang Chiti (@WarangChiti123)
+
 𑣪
 𑣠𑣣𑣦
 𑣠𑣧

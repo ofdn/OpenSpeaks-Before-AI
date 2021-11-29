@@ -1,8 +1,8 @@
-# Corpus-Size:
+# Corpus-Size: 125277
 # License: CC0 1.0
 # Maintained by: O Foundation
-# Cite as: "Foundational Language Tech. O Foundation. CC0 1.0. (2021)"
-# Sources: Santali Wikipedia dump, Santali Wiktionary dump, google-research-datasets/TF-IDF-IIF-top100-wordlists, LineageOS/android_external_cldr, lingua-libre/unilex-extendedPublic, unicode-org/unilexPublic
+# Cite as: "Foundational Language Tech: Santali Wordlist. O Foundation. CC0 1.0. (2021)"
+# Data Sources: Santali Wikipedia dump, Santali Wiktionary dump, google-research-datasets/TF-IDF-IIF-top100-wordlists, LineageOS/android_external_cldr, lingua-libre/unilex-extendedPublic, unicode-org/unilexPublic
 
 ᱐᱒
 ᱐ᱚᱞ
