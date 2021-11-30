@@ -16,3 +16,13 @@ We recognize the systemic issues around societal structures which includes oppre
 
 ## Updates
 * 2021-11-30: Updated the [Linguistic Data](https://github.com/ofdn/Foundational-Language-Tech/tree/main/data) folder with wordlists in three languages -- Ho (indigenous language from India; 1.4 million native speakers; 5,127 words in wordlist when reported), Odia (dominant language from India, ~40 million native speakers; 514,868 words in wordlist) and Santali (indigenous language from India; ~8 million native speakers; 127,359 words in wordlist)
+
+## Project team
+* Subhashish Panigrahi
+* Sailesh Patnaik
+
+## License
+This project uses a three-license structure: all documentations are in a Creative Commons Share-Alike License called [CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/), all databases are under a [CC0 1.0](https://creativecommons.org/share-your-work/public-domain/cc0/) License (see [here](https://github.com/ofdn/Foundational-Language-Tech/blob/main/LICENSE) and all software are under a [MPL 2.0 License](https://www.mozilla.org/media/MPL/2.0/index.48a3fe23ed13.txt).
+
+## Cite
+``` Subhashish Panigrahi and Sailesh Patnaik. "Foundational Tech for Low-Resource Languages". O Foundation. (2021) ```
