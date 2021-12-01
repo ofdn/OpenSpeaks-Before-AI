@@ -1,6 +1,7 @@
 # Corpus-Size: 127359
 # License: CC0 1.0
 # Maintained by: O Foundation
+# Last updated: 2021-11-30
 # Cite as: "Foundational Language Tech: Santali Wordlist. O Foundation. CC0 1.0. (2021)"
 # Data Sources: Santali Wikipedia dump, Santali Wiktionary dump, Ayo Arang magazine, Birmali magazine, google-research-datasets/TF-IDF-IIF-top100-wordlists, LineageOS/android_external_cldr, lingua-libre/unilex-extendedPublic, unicode-org/unilexPublic
 
