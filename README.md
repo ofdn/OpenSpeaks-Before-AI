@@ -27,4 +27,17 @@ We recognize the systemic issues around societal structures which includes oppre
 This project uses a three-license structure: all documentations are in a Creative Commons Share-Alike License called [CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/), all databases are under a [CC0 1.0](https://creativecommons.org/share-your-work/public-domain/cc0/) License (see [here](https://github.com/ofdn/Foundational-Language-Tech/blob/main/LICENSE) and all software are under a [MPL 2.0 License](https://www.mozilla.org/media/MPL/2.0/index.48a3fe23ed13.txt).
 
 ## Cite
-``` Subhashish Panigrahi and Sailesh Patnaik. "Foundational Tech for Low-Resource Languages". O Foundation. (2021) ```
+```
+@misc{panigrahi_foundational_2021,
+	title = {Foundational {Language} {Tech} for {Low}-{Resource} {Languages}},
+	copyright = {CC0-1.0},
+	url = {https://github.com/ofdn/Foundational-Language-Tech},
+	abstract = {A set of frameworks for building the foundational technological layers for low and limited resource languages.},
+	urldate = {2021-12-04},
+	publisher = {O Foundation},
+	author = {Panigrahi, Subhashish},
+	month = dec,
+	year = {2021},
+	note = {original-date: 2021-10-20T23:57:09Z},
+}
+```
