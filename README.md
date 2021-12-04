@@ -27,6 +27,9 @@ We recognize the systemic issues around societal structures which includes oppre
 This project uses a three-license structure: all documentations are in a Creative Commons Share-Alike License called [CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/), all databases are under a [CC0 1.0](https://creativecommons.org/share-your-work/public-domain/cc0/) License (see [here](https://github.com/ofdn/Foundational-Language-Tech/blob/main/LICENSE) and all software are under a [MPL 2.0 License](https://www.mozilla.org/media/MPL/2.0/index.48a3fe23ed13.txt).
 
 ## Cite
+If you use the data or any part of this research, please copy the appropriate format from below:
+
+* bibTEX
 ```
 @misc{panigrahi_foundational_2021,
 	title = {Foundational {Language} {Tech} for {Low}-{Resource} {Languages}},
@@ -40,4 +43,9 @@ This project uses a three-license structure: all documentations are in a Creativ
 	year = {2021},
 	note = {original-date: 2021-10-20T23:57:09Z},
 }
+```
+* Chicago
+
+```
+Panigrahi, Subhashish. (2021) 2021. Foundational Language Tech for Low-Resource Languages. O Foundation. https://github.com/ofdn/Foundational-Language-Tech.
 ```
