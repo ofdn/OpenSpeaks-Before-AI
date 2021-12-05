@@ -37,23 +37,24 @@ If you use the data or any part of this research, please copy the appropriate fo
 
 * bibTEX
 ```
-@misc{panigrahi_foundational_2021,
-	title = {Foundational {Language} {Tech} for {Low}-{Resource} {Languages}},
+@misc{panigrahi_lang_2021,
+	title = {Lang {Lintel}},
 	copyright = {CC0-1.0},
-	url = {https://github.com/ofdn/Foundational-Language-Tech},
-	abstract = {A set of frameworks for building the foundational technological layers for low and limited resource languages.},
-	urldate = {2021-12-04},
+	url = {https://github.com/ofdn/Lang-Lintel},
+	abstract = {A set of frameworks for creating the building blocks for low-resource languages.},
+	urldate = {2021-12-05},
 	publisher = {O Foundation},
 	author = {Panigrahi, Subhashish},
 	month = dec,
 	year = {2021},
 	note = {original-date: 2021-10-20T23:57:09Z},
+	keywords = {ai, languages, low-resource-languages, ml},
 }
 ```
 * Chicago
 
 ```
-Panigrahi, Subhashish. (2021) 2021. Foundational Language Tech for Low-Resource Languages. O Foundation. https://github.com/ofdn/Foundational-Language-Tech.
+Panigrahi, Subhashish. (2021) 2021. Lang Lintel. O Foundation. https://github.com/ofdn/Lang-Lintel.
 ```
 
 # References
