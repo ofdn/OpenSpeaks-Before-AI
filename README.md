@@ -1,4 +1,4 @@
-# Lang Lintel*
+# Low Resource Languages Before AI*
 _A set of frameworks for creating the building blocks for low-resource languages_. 
 
 This is an experimental initiative by [O Foundation](https://theofdn.org) is aimed at understanding the challenges faced by many low-resourced language speakers, and creating a set of frameworks to help create the building blocks required to build the artificial intelligence/machine learning infrastructure for such languages. The initial focus of this project is on a few South Asian languages.
@@ -65,6 +65,3 @@ Nagarajan, Kedar. 2015. “‘A Largely Upper-Caste Media Is Not Good for India�
 Moseley, Christopher (ed.). 2010. “UNESCO Atlas of the World’s Languages in Danger.” Paris: UNESCO Publishing. http://www.unesco.org/languages-atlas/en/statistics.html.
 
 Panigrahi, Subhashish, Prasanta Hembram, and Ganesh Birua. 2021. “Research: Understanding Web Content Monetization in the Ho and Santali Languages.” Bhubaneswar: O Foundation. https://meta.wikimedia.org/wiki/Research:Understanding_Web_Content_Monetization_in_the_Ho_and_Santali_Languages.
-
-# Note
-\*  **Lang Lintel** is a combination of two words -- language (stylized to "lang") and lintel (a horizontal beam in "post and lintel" building structures; used metaphorically to represent the creation of a prolonged support system for horizontal growth in languages) 
