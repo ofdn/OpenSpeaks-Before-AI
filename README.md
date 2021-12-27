@@ -1,5 +1,5 @@
-# Low Resource Languages Before AI*
-_A set of frameworks for creating the building blocks for low-resource languages_. 
+# Before AI*
+_A set of frameworks for creating the AI/ML building blocks for low-resource languages_. 
 
 This is an experimental initiative by [O Foundation](https://theofdn.org) is aimed at understanding the challenges faced by many low-resourced language speakers, and creating a set of frameworks to help create the building blocks required to build the artificial intelligence/machine learning infrastructure for such languages. The initial focus of this project is on a few South Asian languages.
 
