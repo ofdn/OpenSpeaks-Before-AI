@@ -14,7 +14,7 @@ Conducted by: Subhashish Panigrahi
 
 **Gender:** Male
 
-**Language:** Santali
+**Language:** Santali (also known as Santhali)
 
 **Location:** urban
 
@@ -42,7 +42,7 @@ I also like to volunteer in general and that drove me to contribute to Common Vo
 
 
 
-Currently, myself, Suku Murmu and an anonymous user. I reached to many people. Of all the people who I reached out to, Suku Murmu, a Santali teacher from West Bengal showed interest. He gave really good feedback to improve the interface translation of the Common Voice web portal. He is also helping with the validation of recorded voice data.
+Currently, myself, Suku Murmu and an anonymous user. I’ve reached to many people. Of all of them, only Suku Murmu, a Santali teacher from West Bengal showed interest. He gave really good feedback to improve the interface translation of the Common Voice web portal. He is also helping with the validation of recorded voice data.
 
 
 
@@ -50,7 +50,7 @@ Currently, myself, Suku Murmu and an anonymous user. I reached to many people. O
 
 
 
-I have contributed in sentence collection and proof-reading of collected sentences, localization of interface into Santali, recording of more than 300 sentences and validation of 214 sentences that others have recorded. Santali currently has 32 minutes of total voice data out of which 5:36 minutes of data is validated.
+I have contributed in sentence collection and proof-reading of collected sentences, localization of interface into Santali, recording of more than 300 sentences and validation of 214 sentences that others have recorded. Santali currently has 32 minutes of total voice data recorded out of which 5:36 minutes of data is validated.
 
 
 
@@ -74,13 +74,13 @@ I think about that a lot. I am in touch with many others via Twitter and other s
 
 
 
-I did provide support to Suku. He is a part of an institution in West Bengal. They have showed interest to create a curriculum for digital literacy around Santali. I am preparing a video tutorial and a roadmap to for secondary level education. At the moment computing-related books are not available in Santali. Common Voice is one among the different open source projects that I am recommending to them.
+I did provide support to Suku when he was starting out. He is a part of an institution in West Bengal. They have showed interest to create a curriculum for digital literacy around Santali. I am preparing a video tutorial and a roadmap to for secondary level education. At the moment computing-related books are not available in Santali. Common Voice is one among the different open source projects that I am recommending to them.
 
 
 
 ***1.7 Anything you might want to share?***
 
- 
+
 
 
 
@@ -94,7 +94,7 @@ I did provide support to Suku. He is a part of an institution in West Bengal. Th
 
 
 
-I just finished my undergraduate studies. I am using my phone that my parents got for me. I use it mostly as it gives me more flexibility. I do have a laptop but the microphone is not of good quality.
+I just finished my undergraduate course. I am using my phone that my parents got for me. I use it mostly as it gives me more flexibility. I do have a laptop but the microphone is not of good quality.
 
 
 
@@ -102,7 +102,7 @@ I just finished my undergraduate studies. I am using my phone that my parents go
 
 
 
-No issues with my phone so far.
+No issues so far while contributing using my phone.
 
 
 
@@ -110,13 +110,13 @@ No issues with my phone so far.
 
 
 
-About 800 Mb out of 45Gb on a monthly basis.
+About 800 Mb out of 45 Gb on a monthly basis.
 
 
 
 **3. Accessibility**
 
-*Questions to understand your accessibility needs and issues while using Common Voice.*
+*Questions to understand your accessibility issues and needs while using Common Voice.*
 
 
 
@@ -124,15 +124,11 @@ About 800 Mb out of 45Gb on a monthly basis.
 
 
 
-Yes, many contributors use their phone. Sometimes it fails to upload after they finish recording 5-10 sentences and shows an error. It demotivates when it fails like this. Similarly, with validation, there is no voice or there is a long delay. It is not clear what the issues are. Each sentence should be uploaded immediately instead of uploading a batch of 5 sentences. Low bandwidth might see their efforts being wasted with the batch uploading option. If there can be a backend program to inform the uploader that there contribution includes only background noise and no human voice. This can be my mistake and the uploader might not have reviewed. Flagging to the users during the time of uploading can save collective time. There can also be a mock round for all new users to record and validate.
+Many contributors use their phones. Sometimes their browser fails to upload after they finish recording 5-10 sentences and it throws an error.  Losing voice contribution because of browser crash is also an issue. Such issues demotivates them. Similarly, while validating, some contributors find no voice at all, long delays when they finally hear a human voice, or only background noise. It is not clear what the real issues issues are. It probably would be better if each sentence could be uploaded immediately after recording instead of uploading a batch of five sentences. People with low internet bandwidth might see their efforts being wasted with the batch uploading option. It would be nice if there can be a backend program to inform the uploader that there contribution includes only background noise and no human voice. Also, flagging the uploader during uploading might also help. Some contributors might not know how to review and might have uploaded such recordings without knowing. Flagging to the users during the time of uploading can save collective time. There can also be a mock round for all new users to record and validate.
 
 
 
-Other option can also be cleaning up and editing before editing. Some advanced users can do it.
-
-
-
-Sometimes website also crashes. I know about this issues but don’t know how to solve this.
+Another option can also be allowing the contributor to edit and clean up audio before uploading. Some skilled contributors might want to do it.
 
 
 
@@ -140,46 +136,84 @@ Sometimes website also crashes. I know about this issues but don’t know how to
 
 
 
-All good, I like how it is now. Windows 11 has some issues with a particular character “j” because of which all websites see this issue. Many users might mistake this as an issue of a platform.
+I like how it is now. Note that Windows 11 has some issues with a particular Ol chiki character. Because of this all websites display the character in an unexpected manner. Many users might mistake this as an issue of a platform like Common Voice.
 
 
 
-**SENTENCE COLLECTION**
 
 
 
-There was no Public Domain licensed sentences. I started a GitHub repo. Three of us managed to gather 2,000 sentences. Aryan, Ashwani and myself. Total 6,000. I have contributed 4,000. I wish they change to CC-BY CC-BY-SA so that we can bring from Wikipedia and Vikaspedia.
 
 
 
-Alternative could have been going to uni and requesting teachers. 
 
 
 
-***Did you have time?***
+
+**4. Project launching**
+
+*Questions related to the launching of the project would be included in this section.*
 
 
 
-There are only a few of us volunteers.
+***4.1 How did you prepare to launch this project?***
 
 
 
-**PRIVACY**
-
-People are fearful of privacy. They fear if anyone can misuse their voice. I have tried to explain to people but there is low awareness among people.
+There was no Public Domain licensed sentences available in Santali. I started a GitHub repo. Two other friends Aryan and Ashwani, and myself managed to gather 2,000 sentences in the beginning. I have created 4,000 more sentences and that is how we created a corpus of 6,000 sentences in total. I wish Mozilla changes the requirement from Public Domain to CC-BY CC-BY-SA Licenses so that we can bring content from projects like Wikipedia and Vikaspedia.
 
 
 
-**DIVERSITY**
-
-Not much. I think it would be something to discuss and frame a guidelines as the community grow. I am making a video tutorial to help new contributors.
+An alternative could have been going to universities and requesting professors to engage students and contribute. With our limited time we could not go that far.
 
 
 
-THINGS TO IMPROVE
+**5. Privacy**
 
-As ours is an indigenous language that is written in multiple writing systems, there is always a challenge what the default writing system would be. Many other indigenous languages with writing systems have the same issue. Community-level discussions on Discord and a consensus is required.
+*This section covers any privacy and ethics related questions.*
 
 
 
-Accent: There was a question from Mozilla but I could not respond as there are no official or standard name for different accents. Questions should allow details to be shared from the community.
+***5.1 Are there any barriers relating to the personal privacy or ethical practices?***
+
+
+
+People are afraid of privacy risks. They fear if their voice data can be  misused. I have tried to explain to people but there is low awareness among people.
+
+
+
+**6. Diversity**
+
+*Questions related to different forms of diversity such as gender and accents.*
+
+
+
+***6.1 What is the current gender distribution of contributors?***
+
+
+
+All contributors are male at the moment.
+
+
+
+***6.2 Are there any plans to grow gender diversity?***
+
+
+
+We would frame a guidelines as the community grows but we are only a handful of contributors at the moment. I am making a video tutorial to help new contributors while reaching out to potential contributors. 
+
+
+
+***6.3 How are you addressing accent diversity?***
+
+
+
+There was a question from Mozilla but I could not respond as there are no official or standard names for different Santali accents. I think questions related to accents should allow us to provide details and contexts.
+
+
+
+***6.4 Are you facing other issues related to language?***
+
+
+
+As ours is an indigenous language that is written in multiple writing systems, there is always a challenge with speakers living in different places and writing with different writing systems. There is always a debate what the default writing system would be. Many other indigenous languages with writing systems have the same issue. Community-level discussions (on Discord in the context of Common Voice) and a consensus is required in such cases.
