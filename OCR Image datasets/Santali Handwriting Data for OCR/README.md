@@ -1,0 +1,1 @@
+Santali language Image database for OCRing.
