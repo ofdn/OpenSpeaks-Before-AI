@@ -1,3 +1,5 @@
+[![ISBN](https://user-images.githubusercontent.com/1258090/188661672-83cc8334-3549-4d90-b7d3-38ac3c9c4460.svg)](https://theofdn.org/activities/before/)
+
 # OpenSpeaks Before AI*
 _A set of frameworks for creating the AI/ML building blocks for low-resource languages_. 
 
@@ -60,6 +62,7 @@ If you use the framework or any part of this research, please copy the appropria
 	author = {Panigrahi, Subhashish},
 	month = dec,
 	year = {2022},
+	isbn = {978-81-958409-2-2},
 	note = {original-date: 2021-10-20T23:57:09Z},
 	keywords = {ai, languages, low-resource-languages, ml},
 }
@@ -67,5 +70,5 @@ If you use the framework or any part of this research, please copy the appropria
 * Chicago
 
 ```
-Panigrahi, Subhashish. (2021) 2021. Lang Lintel. O Foundation. https://github.com/ofdn/Lang-Lintel.
+Panigrahi, Subhashish. (2021) 2021. OpenSpeaks Before AI: A Set Of Frameworks For Creating The AI/ML Building Blocks For Low-Resource Languages	. O Foundation. https://github.com/ofdn/OpenSpeaks-Before-AI/.
 ```
