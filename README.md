@@ -1,4 +1,4 @@
-[![ISBN](https://user-images.githubusercontent.com/1258090/188661672-83cc8334-3549-4d90-b7d3-38ac3c9c4460.svg)](https://theofdn.org/activities/before/)
+[![ISBN](https://user-images.githubusercontent.com/1258090/188664488-a3e5a3e4-d186-4ea8-89fd-578522ad0bd9.svg)](https://theofdn.org/activities/before/)
 
 # OpenSpeaks Before AI*
 _A set of frameworks for creating the AI/ML building blocks for low-resource languages_. 
