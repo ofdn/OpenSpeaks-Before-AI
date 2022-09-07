@@ -1,14 +1,62 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+title: OpenSpeaks Before AI
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
 authors:
-- family-names: "Panigrahi"
-  given-names: "Subhashish"
-  orcid: "https://orcid.org/0000-0002-3665-8184"
-- family-names: "Hembram"
-  given-names: "Prasanta"
-title: "OpenSpeaks-Before-AI"
-version: 1.0.0
-doi: 10.5281/zenodo.1234
-isbn: 978-81-958409-2-2
-date-released: 2021-12-27
-url: "https://github.com/ofdn/OpenSpeaks-Before-AI"
+  - family-names: Panigrahi
+    given-names: Subhashish
+    affiliation: O Foundation
+    orcid: 'https://orcid.org/0000-0002-3665-8184'
+  - family-names: Hembram
+    given-names: Prasanta
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.1234
+    description: Digital Object Identifier
+  - type: swh
+    value: >-
+      swh:1:dir:12b936ff5560d62e79f38631e41ecb9d519fd0da
+  - type: other
+    value: 'ISBN: 978-81-958409-2-2'
+repository-code: 'https://github.com/ofdn/OpenSpeaks-Before-AI'
+url: 'https://github.com/ofdn/OpenSpeaks-Before-AI'
+repository: 'https://theofdn.org/activities/before/'
+repository-artifact: >-
+  https://github.com/ofdn/OpenSpeaks-Before-AI/releases
+abstract: >-
+  This experimental initiative by O Foundation aims
+  to understand and document the challenges many
+  low-resourced language speakers face. We
+  implemented the initiative in August-September 2021
+  as a part of the MozFest Trustworthy AI Working
+  Groups program, a cohort by the Mozilla Foundation
+  around building trustworthy AI.
+keywords:
+  - ai
+  - OpenSpeaks
+  - low-resource languages
+license: CC-BY-4.0
+commit: '91b8d20 '
+version: '1.0'
+date-released: '2021-12-27'
+
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Panigrahi"
+    given-names: "Subhashish"
+    orcid: "https://orcid.org/0000-0002-3665-8184"
+  doi: "10.1145/3487553.3524931"
+  journal: "Journal Title"
+  month: 9
+  start: 1331 # First page number
+  end: 1338 # Last page number
+  title: "Building a Public Domain Voice Database for Odia"
+  issue: 1
+  volume: 1
+  year: 2021
