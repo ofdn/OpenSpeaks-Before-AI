@@ -46,17 +46,15 @@ version: '1.0'
 date-released: '2021-12-27'
 
 preferred-citation:
-  type: article
+  type: proceedings
   authors:
   - family-names: "Panigrahi"
     given-names: "Subhashish"
     orcid: "https://orcid.org/0000-0002-3665-8184"
   doi: "10.1145/3487553.3524931"
-  journal: "Journal Title"
-  month: 9
+  journal: "WWW '22: Companion Proceedings of the Web Conference"
+  month: 4
   start: 1331 # First page number
   end: 1338 # Last page number
   title: "Building a Public Domain Voice Database for Odia"
-  issue: 1
-  volume: 1
-  year: 2021
+  year: 2022
