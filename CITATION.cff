@@ -1,16 +1,16 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
+preferred-citation:
+  type: data
 authors:
 - family-names: "Panigrahi"
   given-names: "Subhashish"
   orcid: "https://orcid.org/0000-0002-3665-8184"
 - family-names: "Hembram"
   given-names: "Prasanta"
-  orcid: ""
 title: "OpenSpeaks-Before-AI"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
 isbn: 978-81-958409-2-2
 date-released: 2021-12-27
 url: "https://github.com/ofdn/OpenSpeaks-Before-AI"
-preferred-citation: data
