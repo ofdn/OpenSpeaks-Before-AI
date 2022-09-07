@@ -1,5 +1,3 @@
-[![ISBN](https://user-images.githubusercontent.com/1258090/188664488-a3e5a3e4-d186-4ea8-89fd-578522ad0bd9.svg)](https://theofdn.org/activities/before/)
-
 # OpenSpeaks Before AI*
 _A set of frameworks for creating the AI/ML building blocks for low-resource languages_. 
 
@@ -72,3 +70,4 @@ If you use the framework or any part of this research, please copy the appropria
 ```
 Panigrahi, Subhashish. (2021) 2021. OpenSpeaks Before AI: A Set Of Frameworks For Creating The AI/ML Building Blocks For Low-Resource Languages	. O Foundation. https://github.com/ofdn/OpenSpeaks-Before-AI/.
 ```
+[![ISBN](https://user-images.githubusercontent.com/1258090/188664488-a3e5a3e4-d186-4ea8-89fd-578522ad0bd9.svg)](https://theofdn.org/activities/before/)
