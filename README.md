@@ -1,5 +1,8 @@
 # OpenSpeaks Before AI*
-_A set of frameworks for creating the AI/ML building blocks for low-resource languages_. 
+_A set of frameworks for creating the AI/ML building blocks for low-resource languages_.
+
+[![DOI](https://zenodo.org/badge/419524229.svg)](https://zenodo.org/badge/latestdoi/419524229) <br/>
+[![ISBN](https://user-images.githubusercontent.com/1258090/188664488-a3e5a3e4-d186-4ea8-89fd-578522ad0bd9.svg)](https://theofdn.org/activities/before/)
 
 This experimental initiative by [O Foundation](https://theofdn.org) aims to understand and document the challenges many low-resourced language speakers face. We implemented the initiative in August-September 2021 as a part of the [MozFest Trustworthy AI Working Groups program](https://web.archive.org/web/20210304203547/https://www.mozillafestival.org/en/get-involved/building-trustworthy-ai-working-group/), a cohort by the Mozilla Foundation around building trustworthy AI.
 
@@ -60,6 +63,7 @@ If you use the framework or any part of this research, please copy the appropria
 	author = {Panigrahi, Subhashish},
 	month = dec,
 	year = {2022},
+	doi = {10.5281/zenodo.7086414},
 	isbn = {978-81-958409-2-2},
 	note = {original-date: 2021-10-20T23:57:09Z},
 	keywords = {ai, languages, low-resource-languages, ml},
@@ -70,4 +74,3 @@ If you use the framework or any part of this research, please copy the appropria
 ```
 Panigrahi, Subhashish. (2021) 2021. OpenSpeaks Before AI: A Set Of Frameworks For Creating The AI/ML Building Blocks For Low-Resource Languages	. O Foundation. https://github.com/ofdn/OpenSpeaks-Before-AI/.
 ```
-[![ISBN](https://user-images.githubusercontent.com/1258090/188664488-a3e5a3e4-d186-4ea8-89fd-578522ad0bd9.svg)](https://theofdn.org/activities/before/)
