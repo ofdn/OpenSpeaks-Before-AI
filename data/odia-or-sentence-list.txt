@@ -5,6 +5,31 @@
 # Cite as: "OpenSpeaks Before AI: Odia Sentences. Subhashish Panigrahi. O Foundation. CC0 1.0. (2023)"
 # Data sources: Subhashish Panigrahi
 # Subjects: language computing, digital safety, digital security, social sciences, social studies, odia language, odia literature
+=========
+Example of common phrases added after place names for bulk-creation of sentences:
+
+କୁ ଯିବାକୁ ହେବ
+ କେଉଁ ଜିଲ୍ଲାରେ ଅଛି ଯେ?
+ରୁ ଟିଟିଲାଗଡ଼ କେତେ ବାଟ?
+ଠାରୁ ଚାଲିକି ଯିବା
+ ପାଖାପାଖି ଆଉ କଣ ଅଛି?
+ ପାଖରେ କିଛି ଅଛି?
+ ଆଉ କେତେ ବାଟ?
+ ଆଉ କେତେ ଦୂର?
+ ଗଲାଣି କି ନାହିଁ?
+ ଗଲାଣି?
+ ଗଲାଣି କି?
+ ଆସିଲା?
+ ଆସିଲାଣି?
+ ଗଲା କି?
+ ଗଲାଣି?
+ ଗଲାଣି ବୋଧେ ।
+ ଗଲାଣି ପରା ।
+ ଚାଲିଗଲା କି?
+ କେଉଁ ଜିଲ୍ଲାରେ ଅଛି?
+ ଗଲାଣି ମ!
+
+========
 
 ଗୌତମ ସୁନା ନିଜେ ଜଣେ ଦଳିତ ବ୍ୟକ୍ତି ବୋଲି ଦର୍ଶାଇଛନ୍ତି ।
 ଲୋକଙ୍କ ଅନୁଭୂତିରୁ ଶିକ୍ଷା ମିଳିଥାଏ ।
