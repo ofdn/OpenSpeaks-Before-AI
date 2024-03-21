@@ -3,11 +3,11 @@ A Citation Style Language (CSL) is an open source library of styles for automate
 
 # Preview
 
-* Long:
+* Long version:
 ```
 “Bringing down a mountain” [Internet] — by Panigrahi, Subhashish, director. Bengaluru: by Subhashish Panigrahi; 2023. Available from: https://theofdn.org/film/bringing-down-a-mountain/. Under 2023 (c) Subhashish Panigrahi. CC BY-SA 4.0.
 ```
-* Short:
+* Shorter version (with lesser information available):
 ```
 “Bringing down a mountain” — by Panigrahi, Subhashish, director. by Subhashish Panigrahi; 2023. 
 ```
@@ -21,4 +21,4 @@ Subhashish Panigrahi
 2024-03-20
 
 # License:
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 License](http://creativecommons.org/licenses/by-sa/4.0/), attributable to the Author.
+This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/), attributable to the Author.
